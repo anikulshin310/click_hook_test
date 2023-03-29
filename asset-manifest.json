@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/click_hook_test/static/js/main.7529ea01.js",
+    "static/js/787.8c44972c.chunk.js": "/click_hook_test/static/js/787.8c44972c.chunk.js",
+    "index.html": "/click_hook_test/index.html",
+    "main.7529ea01.js.map": "/click_hook_test/static/js/main.7529ea01.js.map",
+    "787.8c44972c.chunk.js.map": "/click_hook_test/static/js/787.8c44972c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7529ea01.js"
+  ]
+}
